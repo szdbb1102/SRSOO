@@ -25,5 +25,6 @@ public partial class pages_selectCourse : WebBasePage
             Response.Write(jsonResult);
             Response.End();
         }
+        
     }
 }
